@@ -1,4 +1,4 @@
-<h1 align="center">OyVey 0.0.4</h1>
+<h1 align="center">OyVey 0.0.8</h1>
 Minecraft anarchy hacked client aimed for the cpvp community
 <hr>
 <h1 align="center">This version includes</h1>
